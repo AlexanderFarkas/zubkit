@@ -1,0 +1,4 @@
+name: zubkit
+
+packages:
+  - packages/*
